@@ -1,6 +1,6 @@
 body
 {
-    background: rgb(85, 83, 83);
+    background: rgb(150, 146, 146);
     color: blue;
     text-align: center;
     font-family: "Arial";
@@ -30,6 +30,7 @@ body
 }
 #container
 {
+    background: white;
     width: 70%;
     padding: 1em;
     text-align: left;
@@ -40,8 +41,19 @@ body
 {
     font-size: 20px;
 }
+<<<<<<< HEAD
 #post
 {
     background: white;
     padding: 1em;
+=======
+#footer
+{
+    background: teal;
+    color: black;
+    margin: 0 auto;
+    font-size: 20px;
+    padding: 1em;
+    text-align: center;
+>>>>>>> footer
 }
